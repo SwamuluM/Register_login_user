@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "firstName": "Swamulu",
+        "lastName": "Murthati",
+        "email": "murthati.angulardev@gmail.com",
+        "mobile": "9441166923",
+        "gender": "Male",
+        "address": "30, 2nd Floor, Bengalore Karnataka India- 560040 "
+    },
+    {
+        "id": 2,
+        "firstName": "Swamulu",
+        "lastName": "Murthati",
+        "email": "murthati.angulardev@gmail.com",
+        "mobile": "9441166923",
+        "gender": "Male",
+        "address": "30, 2nd Floor, Bengalore Karnataka India- 560040 "
+    },
+    {
+        "id": 3,
+        "firstName": "Swamulu",
+        "lastName": "Murthati",
+        "email": "murthati.angulardev@gmail.com",
+        "mobile": "9441166923",
+        "gender": "Male",
+        "address": "30, 2nd Floor, Bengalore Karnataka India- 560040 "
+    },
+    {
+        "id": 4,
+        "firstName": "Swamulu",
+        "lastName": "Murthati",
+        "email": "murthati.angulardev@gmail.com",
+        "mobile": "9441166923",
+        "gender": "Male",
+        "address": "30, 2nd Floor, Bengalore Karnataka India- 560040 "
+    }
+]
